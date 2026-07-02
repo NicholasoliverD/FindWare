@@ -248,19 +248,16 @@ O banco de dados é responsável por armazenar informações referentes a:
 
 ---
 
-# Contribuição
-
-Contribuições são bem-vindas.
-
-Caso identifique problemas ou deseje propor melhorias, abra uma *Issue* ou envie um *Pull Request*.
-
----
-
 # Autores
 
 Este projeto foi desenvolvido de forma colaborativa pelos integrantes da equipe responsável pelo projeto **FindWare**.
 
-Os nomes dos autores podem ser consultados no histórico de commits e na página de contribuidores do repositório.
+Nicholas de Oliveira
+Eduardo Renato Rosa
+Fernando
+Enzo
+João
+Otavio
 
 ---
 
